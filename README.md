@@ -14,11 +14,11 @@ Abrir el proyecto **SolucionNetCore** en el  Visual Studio 2022, luego no dirigi
 Una vez realizado la conexión de BD, ejecutaremos el proyecto lo cual mostrará la **lista de usuarios creados**
 ![](https://github.com/NorkaPV/ProyectoNet/blob/main/ListaUsuario.png)
 
-Para realizar la creación de un nuevo Usuario, dar click en`CrearNuevo`
+Para realizar la creación de un nuevo Usuario, dar click en `CrearNuevo`
 
 ![](https://github.com/NorkaPV/ProyectoNet/blob/main/BotonCreaar%20Usuario.png)
 
-Ingresar todos los datos necesarios, luego click en **Create** .Para verificar la creación de un usuario nuevo click en`Regresar`, donde nos dirigirá  a la pantalla principal.
+Ingresar todos los datos necesarios, luego click en **Create**. Para verificar la creación de un usuario nuevo click en`Regresar`, donde nos dirigirá  a la pantalla principal.
 
 Además, para ver la información detallada de un Usuario click en `Detalle`
 ![](https://github.com/NorkaPV/ProyectoNet/blob/main/Detalle.png)
